@@ -1,0 +1,3 @@
+Compile the progam and run it like so
+
+/usr/bin/env LD_PRELOAD=<full_path_to_mymalloc.so> <program_to_trace>
